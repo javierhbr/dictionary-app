@@ -90,3 +90,7 @@ Example "ADD foo bar":
 
 Enter action and key value input: 
 ```
+
+There are some improvement to do. Because of the time (2 hours ) I mainly focused on the functionalities but thinking grown as well.
+
+Same with the unit test. I added some testing coverage but not  100%
